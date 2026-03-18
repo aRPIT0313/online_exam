@@ -16,10 +16,7 @@ CORS(app)
 # -------------------------
 # Configurations
 # -------------------------
-app.config["MONGO_URI"] = os.getenv(
-    "MONGO_URI",
-    "mongodb+srv://singharpit185:singharpit185@cluster0.6vyn5o0.mongodb.net/exam_db?appName=Cluster0"
-)
+app.config["MONGO_URI"] = os.getenv("MONGO_URI")
 
 app.config["JWT_SECRET_KEY"] = "my_super_secret_key_for_testing"
 app.config["JWT_ACCESS_TOKEN_EXPIRES"]=timedelta(hours=1)
