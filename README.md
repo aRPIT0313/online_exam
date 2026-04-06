@@ -123,10 +123,10 @@ DEBUG=True
 ![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/listofstu.png)
 ![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/.png)
 ![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/takeexam.png)
-![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/teacviewres.png)
 ![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/examforstudent.png)
 ![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/submitans.png)
 ![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/stuseeres.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/teacviewres.png)
 ## 🤝 Contributing
 
 1. Fork the repository
