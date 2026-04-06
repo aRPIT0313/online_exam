@@ -114,7 +114,19 @@ DEBUG=True
 > Refer to `.env.example` (if provided) for all required variables.
 
 ---
-
+## Results
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/login.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/reg.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/createexam.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/assignexam.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/listofstu.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/selectstudent.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/takeexam.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/teacviewres.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/examforstudent.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/submitans.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/exam/stuseeres.png)
 ## 🤝 Contributing
 
 1. Fork the repository
