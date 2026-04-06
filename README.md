@@ -84,7 +84,7 @@ cd exam-portal
 npm install
 
 # Start the development server
-npm start
+npm run dev
 ```
 
 The frontend will run on `http://localhost:3000` by default.
